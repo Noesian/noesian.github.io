@@ -29,6 +29,6 @@ Our global campaign is built around four uncompromising realities:
 ## Stop Dissecting the Universe. Start Building the Future.
 If you are tired of the isolated, cynical landscape of passive secularism, you have found your people. If you believe that a life rooted in science, evidence, and reason should be vibrant, connected, and awe-inspiring, you are already a Noesian.
 
-We have the philosophy. Now, we need the architects. Explore our open-source ceremonies, learn our governance protocols, and help us build the secular sanctuaries humanity so desperately needs.
+We have the philosophy. Now, we need the architects. Explore our Open Source ceremonies, learn our governance protocols, and help us build the secular sanctuaries humanity so desperately needs.
 
 The script is blank. The gates are unlocked. Step forward into reality.
