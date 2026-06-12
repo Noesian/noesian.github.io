@@ -1,6 +1,6 @@
 # Welcome to Reality. Now, Let’s Build the Architecture of Belonging.
 
-<b>We do not have to borrow the language of the dead to comfort the living. The universe is vast, magnificent, and entirely indifferent to us—but we are not indifferent to each other.</b>
+<b>The universe is vast, magnificent, and entirely indifferent to us—<i>but we are not indifferent to each other.</i></b>
 
 ## The Debate is Over. The Culture Begins.
 For centuries, the secular movement has been brilliant at the intellectual teardown. We looked at ancient dogmas, recognized them as the myths of our ancestors, and walked out of the temples. We won the intellectual debate. We established that there is no supernatural safety net, no divine script, and no invisible judge.
