@@ -1,3 +1,5 @@
+![3-D rendering of the Soverign Lens as a pendant](../images/sovereign_lens_as_pendant.png)
+![Trademark application image of the Sovereign Lens](../images/sovereign-lens.svg)
 # The Sovereign Lens
 
 To represent a worldview that is fiercely rational, dynamically adaptive, and anchored in human solidarity, the symbol must reject the tropes of traditional iconography. There are no mystical eyes, no cosmic crosses, and no symmetrical illusions of perfection.

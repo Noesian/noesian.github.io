@@ -22,6 +22,7 @@ The ceremonies, vows, and observances contained within this directory are tools 
 ## Community Assemblies & Civic Observances
 * **[The Invocation of Reality](invocation_of_reality.md)** – Used to open Noesian assemblies or councils, centering the mind on the shared physical universe and committing to open inquiry.
 * **[The Covenant of Discourse](covenant_of_discourse.md)** – Read before debates or complex decisions to shift the brain from biological defense to collaborative inquiry.
+* **[The Rejection of Dogma and Opinion](rejection_of_dogma_and_opinion.md)** – Our official stance on epistemic hygiene. It defines our commitment to the scientific method, the active dismantling of supernatural thinking, and the prioritization of evidence over unverified belief.
 * **[The Observance of the Tilt](observance_of_the_tilt.md)** – A Solstice or Equinox celebration grounding the community in the astrophysics of the Earth's orbit and our ecological reliance on the biosphere.
 * **[The Observance of the Method](observance_of_the_method.md)** – A celebration of the scientific method, observation, and intellectual humility as humanity's greatest survival tools.
 * **[The Observance of the Franchise](observance_of_the_franchise.md)** – A civic observance for election days, recognizing the profound reality of transferring power and the duty to vote based on evidence.

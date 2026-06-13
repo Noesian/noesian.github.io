@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+  <!-- Transparent background layer optimized for formal trademark registration -->
+  <rect width="100%" height="100%" fill="none"/>
+  
+  <g id="sovereign-lens-narrow-fangs-trademark">
+    <!-- Central Intersecting Disc (The Lens) -->
+    <circle cx="200" cy="242" r="60" fill="#000000"/>
+    
+    <!-- Horizontal Vector Crossbar -->
+    <rect x="84" y="193" width="232" height="14" fill="#000000"/>
+    
+    <!-- Downscaled Outer Ring with Narrow, Sharp Curved Fangs -->
+    <!-- Re-engineered path to constrict the horizontal profile of the 12 o'clock teeth -->
+    <path d="M 207 70.19 
+             A 130 130 0 1 1 193 70.19 
+             L 193 125 
+             L 175 86.73 
+             A 116 116 0 1 0 225 86.73 
+             L 207 125 
+             Z" 
+          fill="#000000"/>
+  </g>
+</svg>
