@@ -1,4 +1,4 @@
-# The Noesian Call to You
+# The Noesians Call to You
 
 There is a moment when you look up at the night sky and realize it is entirely empty of gods—yet overflowing with an incomprehensible, breathtaking reality.
 
