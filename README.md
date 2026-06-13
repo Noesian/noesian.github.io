@@ -1,4 +1,4 @@
-# The Acknowledgement of Reality. The Architecture of Belonging.
+# Humanism and The Architecture of Belonging.
 
 **The universe is vast, magnificent, and entirely indifferent to us—*but we are not indifferent to each other.***
 
