@@ -1,4 +1,4 @@
-# The Architecture of Belonging.
+# The Acknowledgement of Reality. The Architecture of Belonging.
 
 **The universe is vast, magnificent, and entirely indifferent to us—*but we are not indifferent to each other.***
 
@@ -9,9 +9,9 @@ The Noesian movement is the corrective. We do not offer divine scripts, false ho
 
 ---
 
-## Repository Map
+## Map
 
-This repository houses the operational infrastructure, foundational literature, and cultural tools of the Noesian movement. Explore the directories below to understand, deploy, or adapt the architecture of reality:
+Explore the folders below to understand, deploy, or adapt the architecture of belonging:
 
 ### 📂 [ritual](ritual/)
 The open-source library of functional, non-supernatural ceremonies, civic observances, oaths of stewardship, and personal affirmations. These scripts use cosmic awe, empirical science, and raw human art to regulate the mammalian nervous system and provide localized social safety nets during life's major transitions.
