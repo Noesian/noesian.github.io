@@ -30,14 +30,6 @@ Our policy directives are organized around four existential and social prioritie
 
 ---
 
-## Directory Structure
-
-*   `platform_manifesto.md` – The overarching philosophy of the Reality-Based Platform.
-*   `climate_framework.md` – Actionable legal and infrastructure frameworks for carbon neutrality.
-*   `healthcare_policy.md` – Structural designs for public, evidence-based health networks.
-*   `education_standards.md` – Model legislation for protecting and advancing secular, scientific education.
-
----
 
 ## How to Contribute
 
