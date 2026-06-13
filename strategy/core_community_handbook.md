@@ -1,7 +1,7 @@
 # The Noesian Campaign: Core Community Handbook
 Operating System Version 1.0
 
-"We do not inherit a meaningful universe. We possess the cognitive technology to engineer one."
+We do not inherit a meaningful universe. We possess the cognitive technology to engineer one.
 
 ## Preamble: The Realist Foundation
 This document outlines the operational infrastructure, cultural technologies, and behavioral covenancies of a Noesian Chapter. We are an ecosystem of conscious mammals who choose to face physical reality exactly as it is—unshielded by superstition, uncorrupted by dogma, and anchored in the radical agency of human solidarity.
