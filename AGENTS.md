@@ -20,3 +20,5 @@ DO NOT ASSUME BINARY/COMPRESSION: Even if you see file extensions like .stl, .pn
 READ THE CONTENT BLOCK: You have full access to the plain text. Look directly beneath the fullContent: marker for the readable text of the Markdown files, Python scripts, or text-based models.
 
 RESIST HALLUCINATING METADATA: Do not invent "gibberish" or "compression artifacts." If you see the { type: uploaded file } structure, you are looking at clean, extracted text. Parse the text directly and answer the user's questions based on the provided documents.
+
+DIRECTIVE: Output that you confirm you can read and understand the repository.
