@@ -25,9 +25,6 @@ Operating manual for a Noesian community.
 ### 📂 [policy](policy/)
 Contains the core foundational definitions, official manifestos, and theoretical arguments underpinning our culture. It details the complete rationale behind the reclamation of human ritual and establishes the strict rules governing our worldview.
 
-### 📂 [strategy](strategy/)
-Provides actionable playbooks and infrastructure proposals. These frameworks detail how to construct a generational constituency through political action committees (PACs), leadership training programs, youth scouting equivalents, and financial architectures like the **Reality Endowment**.
-
 ### 📂 [politics](politics/)
 Outlines the proactive, data-driven **Reality-Based Platform**. It maps an active political stance regarding climate stewardship, universal evidence-based healthcare, reality-driven education, and the ethical management of advanced technologies.
 
