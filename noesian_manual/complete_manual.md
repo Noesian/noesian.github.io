@@ -70,7 +70,7 @@ To decapitate the political ego, leadership councils are staffed via **demarchy 
 
 ### The Legislative Eraser
 We do not build permanent monuments to our own ideas. All passed rules and resource allocations are treated as temporary behavioral hypotheses.
-* **The Rule of Three:** Every community policy *must* explicitly define its **null hypothesis** (what failure looks like), its **tracking metrics** (the data to be measured), and its **sunset clause** (an automatic expiration date, capped at 12 months).
+* **The Rule of Three:** Every community policy *must* explicitly define its **null hypothesis** (what failure looks like), its **tracking metrics** (the data to be measured), and its **sunset clause** (an automatic expiration date when we could be expected to be able to measure the success or failure of the policy, and choose to continue it, or not).
 * **The Falsification Review:** At the sunset boundary, the Analytic Branch evaluates the logged data. If the data fails to support the hypothesis that the rule improved the ecosystem, the rule is automatically erased.
 
 ---
