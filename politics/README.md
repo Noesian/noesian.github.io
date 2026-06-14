@@ -6,7 +6,6 @@ Welcome to the political engine of the Noesian movement. We do not participate i
 
 This directory contains our active policy frameworks, platform platforms, and legislative models.
 
-### [The Reality-based Platform](reality_based_platform.md) 
-Political platform of the Noesian movement.
+### [The Reality-based Platform](reality_based_platform.md) -- Political platform of the Noesian movement.
 ---
 
