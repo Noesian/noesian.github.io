@@ -9,8 +9,8 @@ The Noesian movement is the corrective. We do not offer divine scripts, false ho
 
 ---
 
-A good introduction to our movement is in
-[An Introduction to the Noesian Philosophy](commentary/introduction_to_noesian_philosophy.md)
+**A good introduction to our movement is in
+[An Introduction to the Noesian Philosophy](commentary/introduction_to_noesian_philosophy.md)**
 
 ## Map
 
