@@ -9,15 +9,18 @@ The Noesian movement is the corrective. We do not offer divine scripts, false ho
 
 ---
 
+A good introduction to our movement is in
+[An Introduction to the Noesian Philosophy](commentary/introduction_to_noesian_philosophy.md)
+
 ## Map
 
 Explore the folders below to understand, deploy, or adapt the architecture of belonging:
 
-### [manual](noesian_manual/complete_manual.md)
-Operating manual for a Noesian community.
-
 ### 📂 [ritual](ritual/)
 The library of functional, non-supernatural ceremonies, civic observances, oaths of stewardship, and personal affirmations. These scripts use cosmic awe, empirical science, and raw human art to regulate the mammalian nervous system and provide localized social safety nets during life's major transitions.
+
+### [manual](noesian_manual/complete_manual.md)
+Operating manual for a Noesian community.
 
 ### 📂 [policy](policy/)
 Contains the core foundational definitions, official manifestos, and theoretical arguments underpinning our culture. It details the complete rationale behind the reclamation of human ritual and establishes the strict rules governing our worldview.
