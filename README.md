@@ -3,7 +3,7 @@
 > We do not inherit a meaningful universe. Together, we make it one.
 
 ## What is the Noesian Movement?
-Noesianism is a fiercely rational, deeply empathetic system for a secular life. For centuries, the secular movement excelled at the intellectual teardown of ancient dogmas, yet mistakenly abandoned the profound psychological and social technology that traditional institutions had monopolized: community, mutual support, and life-transition rituals. By surrendering ceremony to superstition, secularism left millions intellectually free but socially isolated.
+Noesianism is a fiercely rational, deeply empathetic system for a secular life. For centuries, the secular movement excelled at the intellectual teardown of ancient dogmas, yet mistakenly abandoned the profound psychological and social technology that religious institutions had monopolized: community, mutual support, and life-transition rituals. By surrendering ceremony to superstition, secularism left millions intellectually free but socially isolated.
 
 The Noesian movement is the corrective. We do not offer divine scripts, false hope, or cosmic destinies. Instead, we wrap the unyielding facts of physical reality in human solidarity, radical agency, epistemic humility, and empirical mutual aid. We shift humanism from a passive philosophical stance into an active and lived culture.
 
