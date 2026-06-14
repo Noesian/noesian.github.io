@@ -28,3 +28,28 @@ Humanity is acquiring the power of gods without the necessary wisdom.  We must p
 A society's rules should not be based on ancient codes of retribution, but on what demonstrably creates a safer, fairer, and more prosperous community. 
 * **The Policy:** Rebuild the criminal justice system around rehabilitation, psychology, and sociology rather than vengeance.  Economic policies must be continuously tested against actual metrics of human well-being—such as child poverty rates and median lifespan—rather than adherence to strict economic dogmas. 
 * **The Standard:** If a policy (like mass incarceration or trickle-down economics) fails repeatedly in empirical testing, it must be discarded.  We must be as willing to pivot in our governance as we are in our laboratories. 
+
+## 6. Better Democracy
+Poor voting systems have resulted in the subversion of democracy to favor
+the "most electable" or "least evil" of candidates, rather than the voter's
+real preference. To fight this, we lobby for fair voting methods (see
+fairvote.org).
+
+## 7. Less-Known, But Important, Environmental Issues
+People should hold the flag not only for the most pressing environmental issues,
+but ones that might be displaced from sight by those more urgent, until it's too
+late. Thus, this chapter is under development.
+
+A. Electric lighting, and more recently the rise of LED lighting, has made
+the stars un-viewable in urban and suburban areas, removing the awe
+of the night sky from our lives. Thus, we support dark-sky ordinances
+and enforcement of regulation to prevent light-tresspass and upward
+light-spill, and to encourage dark-sky-friendly lighting.
+
+B. Similarly, the propagation of digital noise has made most radio-frequencies
+un-receivable in most homes and offices. To protect communications, scientific
+research, sensing, and STEM education, we lobby for more strict regulation of
+unintended RF emission from consumer and business products.
+
+C. For further research and policy development: The issue of honeybees
+displacing other bees that drive natural pollenation.
