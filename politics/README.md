@@ -6,33 +6,7 @@ Welcome to the political engine of the Noesian movement. We do not participate i
 
 This directory contains our active policy frameworks, platform platforms, and legislative models.
 
+### [The Reality-based Platform](reality_based_platform.md) 
+Political platform of the Noesian movement.
 ---
 
-## Core Pillars of the Platform
-
-Our policy directives are organized around four existential and social priorities:
-
-### 1. Climate & Ecological Stewardship
-*   **Empirical Conservation:** Transitioning completely away from fossil fuels based on strict carbon-budget accounting.
-*   **Systemic Resilience:** Infrastructure investment tailored to climate realities, prioritizing long-term ecological balance over quarterly economic growth.
-
-### 2. Universal Evidence-Based Healthcare
-*   **Outcome-Driven Systems:** Treating healthcare as a foundational civic utility.
-*   **Science-First Medicine:** Funding public wellness systems rooted in peer-reviewed, reproducible medical science, completely decoupled from predatory profit motives or anti-scientific biases.
-
-### 3. Reality-Driven Education
-*   **Epistemic Literacy:** Overhauling curriculum standards to prioritize critical thinking, cognitive bias recognition, and the scientific method.
-*   **Shielding the Future:** Ensuring public education remains entirely secular, protecting children from ideological or superstitious indoctrination.
-
-### 4. Ethical Management of Advanced Technologies
-*   **Existential Foresight:** Proactive governance architectures for Artificial Intelligence, synthetic biology, and automation.
-*   **Human-Centric Automation:** Designing economic safety nets that ensure technological productivity elevates humanity rather than displacing it into poverty.
-
----
-
-
-## How to Contribute
-
-We treat our political platform as an ongoing, error-correcting hypothesis. If you have data, peer-reviewed studies, or policy iterations that can optimize these frameworks for better real-world outcomes, please submit a pull request.
-
-For a broader understanding of how our political goals integrate into the wider Noesian ecosystem, please refer back to the central hub at `noesian/home`.
