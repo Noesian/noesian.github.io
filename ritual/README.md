@@ -29,6 +29,7 @@ The ceremonies, vows, and observances contained within this directory are tools 
 * **[The Assembly of Solace](assembly_of_solace.md)** – Convened in the immediate aftermath of a natural disaster or community tragedy to provide physical presence, shared grief, and logistical mutual aid without false comfort.
 * **[The Celebration of Dissent](celebration_of_dissent.md)** – Honors the friction, skepticism, and courage of the outlier that prevents intellectual stagnation and groupthink.
 * **[The Rite of Exit](rite_of_exit.md)** – A profound celebration of intellectual sovereignty for individuals choosing to leave the community, ensuring the gates remain open and free of coercion or shaming.
+* **[The Guard Against Talmud](guard_against_talmud.md)** – How the Noesian community protects itself from endless elaboration and purposeless argument.
 
 ## Personal Acknowledgments & Affirmations
 * **[The Observance of Awakening](observance_of_awakening.md)** – A morning meditation acknowledging the biological miracle of waking up and claiming agency for the day ahead.
