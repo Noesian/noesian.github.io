@@ -45,3 +45,4 @@ The ceremonies, vows, and observances contained within this directory are tools 
 * **[The Acknowledgment of Illness and Stewardship](acknowledgment_of_illness_and_stewardship.md)** – Conducted upon receiving a difficult diagnosis. Strips the moral weight from sickness and affirms the profound responsibility of active, evidence-based medical advocacy.
 * **[The Ceremony of Reform](ceremony_of_reform.md)** – A personal or communal process for confronting one's missteps, accepting responsibility, and engineering material restitution.
 * **[The Mourning Acknowledgment of Injustice](mourning_acknowledgment_of_injustice.md)** – Validates the rage and grief following a systemic failure or act of oppression, transmuting it into grounded, restorative action.
+* **[The Confrontation of Death](confrontation_of_death.md)** – The absolute certainty of my death, and the fact that this is the only life we have.
